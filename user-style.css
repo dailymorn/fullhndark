@@ -1,0 +1,10 @@
+@-moz-document domain("www.fullhn.com") {
+body			{ background-color: #222; color: #ddd; }
+div.main		{ background-color: #222; }
+footer			{ background-color: #111; }
+pre				{ background-color: #111; border: 1px solid #CCC; }
+.hn-article		{ border-top: 3px solid #555 !important; }
+.title a		{ color: #ddd; }
+.toc a			{ color: #f60; }
+.toc li			{ border-top: 1px solid #444; }
+}
